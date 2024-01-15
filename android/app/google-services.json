@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "842647511765",
+    "project_id": "sandhika-shop-7d4ae",
+    "storage_bucket": "sandhika-shop-7d4ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842647511765:android:8bb27fb58a197ea4f5785c",
+        "android_client_info": {
+          "package_name": "com.example.tugas_besar1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbjT2usDkgGcbVlPo8aFa8vnKt-WqVs0c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
